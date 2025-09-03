@@ -9,7 +9,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.json());
 
 // API Route for Login
-app.post('/api/test-login-db', async (req, res) => {
+app.post('/api/rms-login-db', async (req, res) => {
     const { username, password } = req.body;
     
     console.log('Login attempt for username:', username);
