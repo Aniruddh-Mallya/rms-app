@@ -68,7 +68,7 @@ app.post('/api/rms-login-db', async (req, res) => {
         
         // Execute the query
         const result = await new Promise((resolve, reject) => {
-            const sql = `SELECT 1 FROM Users WHERE Username = @username AND Password = @password`;
+            const sql = `SELECT UserID, Username FROM Users WHERE Username = @username AND Password = @password`;
             const request = new Request(sql, (err, rowCount) => {
                 if (err) {
                     console.error('Query error:', err);
