@@ -6,7 +6,7 @@ A full-stack web application for user authentication and research project manage
 
 ## Live Demo
 
-**You can view the live, deployed application here:** [[https://rms-express-app.azurewebsites.net](https://rms-express-app-cwh7arftehfnefgn.westeurope-01.azurewebsites.net/dashboard)]([https://rms-express-app.azurewebsites.net](https://rms-express-app-cwh7arftehfnefgn.westeurope-01.azurewebsites.net/dashboard))
+**You can view the live, deployed application here:** [https://rms-express-app-cwh7arftehfnefgn.westeurope-01.azurewebsites.net](https://rms-express-app-cwh7arftehfnefgn.westeurope-01.azurewebsites.net)
 
 *(Note: Please replace the URL above with your actual live application URL.)*
 
@@ -56,7 +56,7 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/rms-app.git](https://github.com/YOUR_USERNAME/rms-app.git)
+    git clone [https://github.com/Aniruddh-Mallya/rms-app.git](https://github.com/Aniruddh-Mallya/rms-app.git)
     cd rms-app
     ```
 
