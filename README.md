@@ -8,8 +8,6 @@ A full-stack web application for user authentication and research project manage
 
 **You can view the live, deployed application here:** [https://rms-express-app-cwh7arftehfnefgn.westeurope-01.azurewebsites.net](https://rms-express-app-cwh7arftehfnefgn.westeurope-01.azurewebsites.net)
 
-*(Note: Please replace the URL above with your actual live application URL.)*
-
 ---
 
 ## Key Features
